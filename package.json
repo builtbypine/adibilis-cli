@@ -33,7 +33,7 @@
     "ora": "^8.0.0"
   },
   "devDependencies": {
-    "vitest": "^2.1.0"
+    "vitest": "^3.2.7"
   },
   "keywords": ["accessibility", "wcag", "a11y", "scanner", "ada", "cli"],
   "license": "MIT"
