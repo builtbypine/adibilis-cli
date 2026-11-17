@@ -36,5 +36,8 @@
     "vitest": "^3.2.7"
   },
   "keywords": ["accessibility", "wcag", "a11y", "scanner", "ada", "cli"],
-  "license": "MIT"
+  "license": "MIT",
+  "overrides": {
+    "tinypool": "^2.1.2"
+  }
 }
